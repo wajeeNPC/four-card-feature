@@ -137,7 +137,7 @@ main{
     .top{
         text-align: center;
         position: relative;
-        top: -130px;
+        top: -100px;
         font-size: small;
     }
     .top p{
